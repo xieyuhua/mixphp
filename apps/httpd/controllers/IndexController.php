@@ -14,7 +14,7 @@ class IndexController extends Controller
     // 默认动作
     public function actionIndex()
     {
-        return '你好';
+        return '0你';
     }
 
 }
